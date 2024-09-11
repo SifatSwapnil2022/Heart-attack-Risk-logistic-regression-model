@@ -1,0 +1,1 @@
+The dataset, sourced from Kaggle, contains information on Heart Attack Risk in CSV format. I developed a logistic regression model to analyze the data, performing both training and testing to evaluate its performance.
